@@ -4,6 +4,8 @@ Demonstration on Mark down
 This is *italics* and this is __bold__
 And this is ***bold italics***
 
+Take me to [apple web site](www.apple.com)
+
 -----
 
 An unordered list of names
