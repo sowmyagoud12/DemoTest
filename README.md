@@ -6,7 +6,10 @@ And this is ***bold italics***
 
 Take me to [apple web site](https://www.apple.com)
 
+
 We have an image ![Google Image](download.png)
+
+
 
 -----
 
