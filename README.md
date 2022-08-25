@@ -31,6 +31,8 @@ An unordered list of names
 3. Berlin
 4. Kansas city
 
+------------------------
+
 we are going to define a function with two variables: `x` and `y`.
 ```
 def swap(x,y):
